@@ -5,18 +5,18 @@ public class IsLeapYear {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bạn nhập năm cần kiểm tra");
         int year = scanner.nextInt();
-        if (year %4 ==0 ) {
-            if (year %100 !=0) {
+        if (year % 4 == 0) {
+            if (year % 100 != 0) {
                 System.out.println("Năm " + year + "là năm nhuận");
             } else {
-                if (year %400 !=0) {
-                    System.out.println("Năm " + year + "không phải là năm nhuận");
+                if (year % 400 != 0) {
+                    System.out.println("Năm " + year + " không phải là năm nhuận");
                 } else {
                     System.out.println("Năm " + year + "là năm nhuận");
                 }
             }
         } else {
-            System.out.println("Năm " + year + "không phải là năm nhuận");
+            System.out.println("Năm " + year + " không phải là năm nhuận");
         }
     }
 }
