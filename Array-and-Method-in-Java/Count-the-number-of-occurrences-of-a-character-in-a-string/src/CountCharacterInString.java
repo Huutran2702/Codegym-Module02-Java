@@ -14,4 +14,5 @@ public class CountCharacterInString {
         }
         System.out.println("The number of occurrences of character "+input+" in a string is: " +count);
     }
+
 }
