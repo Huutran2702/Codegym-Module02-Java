@@ -31,4 +31,5 @@ public class Student {
     public double gpa() {
         return (this.mathScore+this.historyScore)/2;
     }
+
 }

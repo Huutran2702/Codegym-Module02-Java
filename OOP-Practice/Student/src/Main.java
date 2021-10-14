@@ -5,6 +5,5 @@ public class Main {
         Student student3 = new Student(3,8,9.0,8.0);
         System.out.println(student1);
         System.out.println(student2);
-        System.out.println(student3);
     }
 }
