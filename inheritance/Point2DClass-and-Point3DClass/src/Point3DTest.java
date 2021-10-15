@@ -9,5 +9,4 @@ public class Point3DTest {
         System.out.println(point3D1);
         System.out.println(Arrays.toString(point3D1.getXYZ()));
     }
-
 }
