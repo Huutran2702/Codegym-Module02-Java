@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e172def-94c1-4e8c-8bd0-cff99b1db1e7" name="Changes" comment="[Thực hành] Hệ các đối tượng hình học">
+      <change afterPath="$PROJECT_DIR$/../../ accessModifier-staticMethod-staticProperty/AccessModefier/AccessModefier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ accessModifier-staticMethod-staticProperty/Build-write-only-classes-in-Java/Build-write-only-classes-in-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ accessModifier-staticMethod-staticProperty/StaticMethod/StaticMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ accessModifier-staticMethod-staticProperty/StaticProperty/StaticProperty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Codegym-Module02-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/ConvertTemparature/ConvertTemparature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Count-the-number-of-occurrences-of-a-character-in-a-string/Count-the-number-of-occurrences-of-a-character-in-a-string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Find-maxValue-in-Array/Find-maxValue-in-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Find-the-lagest-Element-in-a-two-dimensional-Array/Find-the-lagest-Element-in-a-two-dimensional-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Merge-Array/Merge-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Reverse-element-in-array/Reverse-element-in-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Sum-the-numbers-in-a-specified-column/Sum-the-numbers-in-a-specified-column.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/add-Element-to-Array/add-Element-to-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/application-that-counts-the-number-of students-passing-the-exam/application-that-counts-the-number-of students-passing-the-exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/delete-Element-from-Array/delete-Element-from-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/find-minValue-in-Array/find-minValue-in-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/find-minValue-use-Method/find-minValue-use-Method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array-and-Method-in-Java/find-value-in-array/find-value-in-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/.idea/Class-and-Object-in-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/Fan/.idea/Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/Fan/Fan/Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/QuadraticEquation/QuadraticEquation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/Rectangle/Rectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/StopWatch/.idea/StopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Class-and-Object-in-Java/StopWatch/StopWatch/StopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IntroductionToJava/IntroductionToJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/.idea/Loop-In-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/Calculate-Loan-Interest/Calculate-Loan-Interest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/Display-First-20-Prime-Number/Display-First-20-Prime-Number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/Display-drawing-menu/Display-drawing-menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/DisplayPrimeNumberLessThan100/DisplayPrimeNumberLessThan100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/Drawing-menu/Drawing-menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/Greatest-Common-Divisor/Greatest-Common-Divisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loop-In-Java/isPrimeNumber/isPrimeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP-Practice/.idea/OOP-Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP-Practice/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System-of-geometric-objects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP-Practice/Student/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP-Practice/Student/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP-Practice/Student/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP-Practice/Student/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zUJRDfdRjejVj1oeD04qykIhxc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.SquareTest">
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleTest" />
+      <module name="System-of-geometric-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="System-of-geometric-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeTest" />
+      <module name="System-of-geometric-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareTest" />
+      <module name="System-of-geometric-objects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.ShapeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e172def-94c1-4e8c-8bd0-cff99b1db1e7" name="Changes" comment="" />
+      <created>1634196724360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634196724360</updated>
+      <workItem from="1634196726903" duration="4008000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Thực hành] Hệ các đối tượng hình học">
+      <created>1634200696355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634200696355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Thực hành] Hệ các đối tượng hình học" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Hệ các đối tượng hình học" />
+  </component>
+</project>

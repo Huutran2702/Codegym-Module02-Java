@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Calculate-Loan-Interest/Calculate-Loan-Interest.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Calculate-Loan-Interest/Calculate-Loan-Interest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Codegym-Module02-Java.iml" filepath="$PROJECT_DIR$/.idea/Codegym-Module02-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/ConvertTemparature/ConvertTemparature.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/ConvertTemparature/ConvertTemparature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Count-the-number-of-occurrences-of-a-character-in-a-string/Count-the-number-of-occurrences-of-a-character-in-a-string.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Count-the-number-of-occurrences-of-a-character-in-a-string/Count-the-number-of-occurrences-of-a-character-in-a-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Display-First-20-Prime-Number/Display-First-20-Prime-Number.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Display-First-20-Prime-Number/Display-First-20-Prime-Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Display-drawing-menu/Display-drawing-menu.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Display-drawing-menu/Display-drawing-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/DisplayPrimeNumberLessThan100/DisplayPrimeNumberLessThan100.iml" filepath="$PROJECT_DIR$/Loop-In-Java/DisplayPrimeNumberLessThan100/DisplayPrimeNumberLessThan100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Drawing-menu/Drawing-menu.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Drawing-menu/Drawing-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Find-maxValue-in-Array/Find-maxValue-in-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Find-maxValue-in-Array/Find-maxValue-in-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Find-the-lagest-Element-in-a-two-dimensional-Array/Find-the-lagest-Element-in-a-two-dimensional-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Find-the-lagest-Element-in-a-two-dimensional-Array/Find-the-lagest-Element-in-a-two-dimensional-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/Greatest-Common-Divisor/Greatest-Common-Divisor.iml" filepath="$PROJECT_DIR$/Loop-In-Java/Greatest-Common-Divisor/Greatest-Common-Divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductionToJava/IntroductionToJava.iml" filepath="$PROJECT_DIR$/IntroductionToJava/IntroductionToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Merge-Array/Merge-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Merge-Array/Merge-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-and-Object-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/Class-and-Object-in-Java/QuadraticEquation/QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class-and-Object-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Class-and-Object-in-Java/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Reverse-element-in-array/Reverse-element-in-array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Reverse-element-in-array/Reverse-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Sum-the-numbers-in-a-specified-column/Sum-the-numbers-in-a-specified-column.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Sum-the-numbers-in-a-specified-column/Sum-the-numbers-in-a-specified-column.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix/Two-dimensional-array-Sum-the-numbers-at-the-main-diagonal-of-a-square-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/add-Element-to-Array/add-Element-to-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/add-Element-to-Array/add-Element-to-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/application-that-counts-the-number-of students-passing-the-exam/application-that-counts-the-number-of students-passing-the-exam.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/application-that-counts-the-number-of students-passing-the-exam/application-that-counts-the-number-of students-passing-the-exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/delete-Element-from-Array/delete-Element-from-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/delete-Element-from-Array/delete-Element-from-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/find-minValue-in-Array/find-minValue-in-Array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/find-minValue-in-Array/find-minValue-in-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/find-minValue-use-Method/find-minValue-use-Method.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/find-minValue-use-Method/find-minValue-use-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-and-Method-in-Java/find-value-in-array/find-value-in-array.iml" filepath="$PROJECT_DIR$/Array-and-Method-in-Java/find-value-in-array/find-value-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop-In-Java/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/Loop-In-Java/isPrimeNumber/isPrimeNumber.iml" />
+    </modules>
+  </component>
+</project>
