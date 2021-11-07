@@ -20,7 +20,6 @@ public class Convert {
         do {
             binary += stack.pop();
         } while (stack.size()>0);
-        System.out.println(stack);
         System.out.print("Number to convert binary is: ");
         System.out.print(binary);
     }
