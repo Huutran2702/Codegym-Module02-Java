@@ -13,6 +13,7 @@ public class Triangle {
         double c = sc.nextDouble();
         Triangle triangle = new Triangle();
          triangle.checkTriangle(a,b,c);
+
     }
     private void checkTriangle(double a, double b, double c) {
         if (a<0.0||b<0.0||c<0.0) {
@@ -23,4 +24,5 @@ public class Triangle {
             throw new IllegalArgumentException("3 canh " +a+", "+b+", "+c+", "+"khong phai la 3 canh cua tam giac");
         }
     }
+
 }
